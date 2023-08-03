@@ -12,6 +12,8 @@ AutoRBM is able to :
  - perform a network stabilisation using Gibbs sampling (for deep propagation through the network and for co-dependant layers)
  - CD-k gradients estimation
 
+This project use JAX as backend but it can easily be adapted to other ML libraries or Numpy
+
 I added a notebook ```test_autoRBM``` you can play with to check how it works.
 
 Feel free to take this code to play with and thanks for any help you could give me :) 
